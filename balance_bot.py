@@ -19,6 +19,7 @@ contas = {
     "MAXBOT": os.getenv("TOKEN_MAXBOT"),
     "JUCEMG": os.getenv("TOKEN_JUCEMG"),
     "CRCRO": os.getenv("TOKEN_CRCRO"),
+    "GUARATUBA": os.getenv("TOKEN_GUARATUBA"),
 }
 
 url = "https://app.maxbot.com.br/api/v1.php"
